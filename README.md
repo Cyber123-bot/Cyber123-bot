@@ -4,7 +4,7 @@
 
 ### Sobre mí
 - 👀 **Intereses:**
-  Estoy profundamente interesado en la programación con **Python** y **SQL**, especialmente enfocada en ciencia de datos.
+  Estoy profundamente interesado en la programación con **Python**, especialmente enfocada en ciencia de datos.
 
 - 🌱 **En proceso de aprendizaje:**
   Actualmente estoy aprendiendo sobre **machine learning** y mejorando mis habilidades cada día.
