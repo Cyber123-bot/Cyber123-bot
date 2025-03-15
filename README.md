@@ -1,7 +1,10 @@
 # ¡Hola, mundo! 👋
 
 ![https://github.com/Cyber123-bot](https://github.com/Cyber123-bot/Cyber123-bot/blob/main/python%20logo.png)
-## Soy @Cyber123-bot
+![https://github.com/Cyber123-bot](https://github.com/Cyber123-bot/Cyber123-bot/blob/main/css%20logo.png)
+![https://github.com/Cyber123-bot](https://github.com/Cyber123-bot/Cyber123-bot/blob/main/javascript%20logo.png)
+![https://github.com/Cyber123-bot](https://github.com/Cyber123-bot/Cyber123-bot/blob/main/html%20logo.png)
+## Soy *@Cyber123-bot*
 
 ### Sobre mí
 - 👀 **Intereses:**
