@@ -1,6 +1,6 @@
 # ¡Hola, mundo! 👋
 
-## Soy @Cyber123-bot
+## ![https://google.com](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png) Soy @Cyber123-bot
 
 ### Sobre mí
 - 👀 **Intereses:**
