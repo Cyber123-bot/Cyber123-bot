@@ -1,12 +1,12 @@
 # ¡Hola, mundo! 👋
 
-## ![https://google.com](https://github.com/Cyber123-bot/Cyber123-bot/blob/main/python%20logo.png) Soy @Cyber123-bot
+![https://github.com/Cyber123-bot](https://github.com/Cyber123-bot/Cyber123-bot/blob/main/python%20logo.png)
+## Soy @Cyber123-bot
 
 ### Sobre mí
 - 👀 **Intereses:**
-  Estoy profundamente interesado en la programación con **Python**, especialmente enfocada en ciencia de datos.
-  También me interesa la programación con Arduino para proyectos IOT.
-
+  Estoy profundamente interesado en la programación con **Python**, especialmente enfocada en *ciencia de datos*;
+  también me interesa la programación con **Arduino** para proyectos *IOT* y programar páginas web y applicaciones con **HTML**, **JS** y **CSS**
 - 🌱 **En proceso de aprendizaje:**
   Actualmente estoy aprendiendo sobre **machine learning** y creación de **juegos con pygame** y mejorando mis habilidades cada día.
 
