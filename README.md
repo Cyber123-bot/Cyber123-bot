@@ -11,7 +11,7 @@
   Estoy profundamente interesado en la programación con **Python**, especialmente enfocada en *ciencia de datos*;
   también me interesa la programación con **Arduino** para proyectos *IOT* y programar páginas web y applicaciones con **HTML**, **JS** y **CSS**
 - 🌱 **En proceso de aprendizaje:**
-  Actualmente estoy aprendiendo sobre **machine learning** y creación de **juegos con pygame** y mejorando mis habilidades cada día.
+  Actualmente estoy aprendiendo sobre **machine learning** y creación de **juegos con pygame**, mejorando mis habilidades cada día.
 
 - 💞️ **Colaboración:**
   Me encantaría unirme a proyectos en **Python**, **HTML**, **CSS** y **Javascript** que estén alineados con mi nivel.
